@@ -1,0 +1,3 @@
+
+1.Spring核心知识
+	Bean管理,依赖注入(IOC,DI),AOP面向切面编程,JDBC,MVC
